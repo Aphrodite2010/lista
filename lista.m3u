@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Test 01" https://raw.githubusercontent.com/Aphrodite2010/lista/main/assets/Youtube.m3utvg-logo="" group-title="LINK TEST", Test 01
-https://www.youtube.com/embed/jfKfPfyJRdk
-
 #EXTINF:0 type="playlist" tvg-logo="",Radio
 #EXTBG: #000000
 https://raw.githubusercontent.com/Aphrodite2010/lista/main/assets/Radio.m3u
