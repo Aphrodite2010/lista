@@ -1,1 +1,21 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ABERTO", GLOBO SP
+https://www.youtube.com/watch?v=pbwTZSHPs5k&t=0s
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="https://i.imgur.com/v1yPH30.png?1" group-title="CANAL ABERTO", GLOBO PREMIUM
+http://54.37.255.204:9977/live/maria/iptv/26179.ts
+
+#EXTINF:-1 tvg-id="Lol Fi" tvg-logo="https://i.imgur.com/v1yPH30.png?1" group-title="INFINIT LIVE", Lol Fi
+https://www.youtube.com/embed/jfKfPfyJRdk
+
+#EXTINF:-1 tvg-id="Test 01" https://raw.githubusercontent.com/Aphrodite2010/lista/main/assets/Youtube.m3utvg-logo="" group-title="LINK TEST", Test 01
+https://www.youtube.com/embed/jfKfPfyJRdk
+
+#EXTINF:0 type="playlist" tvg-logo="",GREYS ANATOMY
+#EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/1280px-YouTube_Logo_%282013-2017%29.svg.png
+https://raw.githubusercontent.com/Aphrodite2010/lista/main/assets/Youtube.m3u
+
+#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Canais de TV
+#EXTBG: #000000
+http://pastebin.com/raw/drTNiS1y
