@@ -16,6 +16,10 @@ https://www.youtube.com/embed/jfKfPfyJRdk
 #EXTBG:https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/YouTube_Logo_%282013-2017%29.svg/1280px-YouTube_Logo_%282013-2017%29.svg.png
 https://raw.githubusercontent.com/Aphrodite2010/lista/main/assets/Youtube.m3u
 
-#EXTINF:0 type="playlist" tvg-logo="https://tvacabodigital.files.wordpress.com/2014/07/0618b-television_icon-265115133_std.png",Canais de TV
+#EXTINF:0 type="playlist" tvg-logo="",EXTERNAL LIST 1
 #EXTBG: #000000
-http://pastebin.com/raw/drTNiS1y
+https://pastebin.com/raw/yVnagQpB
+
+#EXTINF:0 type="playlist" tvg-logo="",EXTERNAL LIST 2
+#EXTBG: #000000
+https://pastebin.com/raw/4uW9jHpx
